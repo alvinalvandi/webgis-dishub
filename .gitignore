@@ -1,0 +1,7 @@
+#/vendor
+/.idea
+/.vscode
+/.vagrant
+environtment.php
+composer.lock
+file env website.txt

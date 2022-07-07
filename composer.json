@@ -1,0 +1,17 @@
+{
+    "name": "alvin/webgis-dishub",
+    "require": {
+        "joshcam/mysqli-database-class": "*",
+        "josantonius/session": "^1.1",
+        "verot/class.upload.php": "dev-master",
+        "dompdf/dompdf": "^1.0"
+      
+    },
+    "license": "tidak ada",
+    "authors": [
+        {
+            "name": "Alvin Alvandi",
+            "email": "alvinalvandipratama@gmail.com"
+        }
+    ]
+}
