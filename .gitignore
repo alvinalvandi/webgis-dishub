@@ -2,6 +2,6 @@
 /.idea
 /.vscode
 /.vagrant
-environtment.php
+environment.php
 composer.lock
 file env website.txt
